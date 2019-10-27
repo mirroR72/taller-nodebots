@@ -1,3 +1,5 @@
+![img/nodebotsday2016.jpg](img/nodebotsday2016.jpg)
+
 # Kit Robot Luchador (Sumobot)
 
 - [Arduino Nano 5V 16MHz](https://es.aliexpress.com/item/32881632966.html?spm=a2g0o.productlist.0.0.3bb06c80zwYrpU)
