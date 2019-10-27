@@ -1,3 +1,5 @@
+![img/arduino-hacking.jpg](img/arduino-hacking.jpg)
+
 # Kit de taller
 
 - [Arduino Nano 5V 16MHz](https://es.aliexpress.com/item/32607801066.html?spm=a2g0s.9042311.0.0.274263c0poFovm)
