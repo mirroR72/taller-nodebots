@@ -18,6 +18,7 @@
 2 robots se suben al ring! Solo uno saldra victorioso!
 
 - Los robots tienen que caber en un cubo de 25cm de lado
+- Deben de ser hechos a mano y con control remoto por cable o inhalambrico.
 - El ring es de 1m de diametro aprox, con fondo negro y lineas en blanco.
 - Cada combate son 3 rondas de 60 segundos entre 2 robots.
 - Equipos participan aleatoriamente, quedandose 2 robots victoriosos para la final.
