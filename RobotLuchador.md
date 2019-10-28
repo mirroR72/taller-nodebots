@@ -12,3 +12,19 @@
 - [4x NIMH Batteries](https://www.ikea.com/es/es/p/ladda-pila-recargable-90303880/)
 - [Ultrasonic Sensor HC-SR04](https://es.aliexpress.com/item/585734969.html?spm=a2g0s.9042311.0.0.274263c0YemnNP)
 - [Zip Ties](https://es.aliexpress.com/item/4000061028039.html?spm=a2g0o.productlist.0.0.49b5480c4vuaZO)
+
+# Reglas de Competicion
+
+2 robots se suben al ring! Solo uno saldra victorioso!
+
+- Los robots tienen que caber en un cubo de 25cm de lado
+- El ring es de 1m de diametro aprox, con fondo negro y lineas en blanco.
+- Cada combate son 3 rondas de 60 segundos entre 2 robots.
+- Equipos participan aleatoriamente, quedandose 2 robots victoriosos para la final.
+- Es posible destruir/danar al robot oponente, pero no es aconsejable. Perdiendose merito ante otros competidores y causando posible descalificacion.
+
+## Puntuacion
+
+- Si un robot sale (o pisa) fuera del ring, pierde ante su oponente.
+- El robot que gane 2 rondas es el ganador.
+- Si ningun robot gana una ronda, el arbitro decide a su propio criterio. Incluyendose cosas como cual de los robots le parece mas chulo.
