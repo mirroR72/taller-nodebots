@@ -13,7 +13,7 @@
 - [Ultrasonic Sensor HC-SR04](https://es.aliexpress.com/item/585734969.html?spm=a2g0s.9042311.0.0.274263c0YemnNP)
 - [Zip Ties](https://es.aliexpress.com/item/4000061028039.html?spm=a2g0o.productlist.0.0.49b5480c4vuaZO)
 
-# Reglas de Competición
+## Reglas de Competición
 
 - Los robots han de caber en un cubo de 25cm de lado.
 - Deben de ser hechos a mano y con control remoto por cable o inalámbrico.
