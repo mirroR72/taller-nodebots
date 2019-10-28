@@ -12,6 +12,7 @@
 - [4x NIMH Batteries](https://www.ikea.com/es/es/p/ladda-pila-recargable-90303880/)
 - [Ultrasonic Sensor HC-SR04](https://es.aliexpress.com/item/585734969.html?spm=a2g0s.9042311.0.0.274263c0YemnNP)
 - [Zip Ties](https://es.aliexpress.com/item/4000061028039.html?spm=a2g0o.productlist.0.0.49b5480c4vuaZO)
+- Chasis (cualquier caja de carton/plástico de menos de 25cm de lado)
 
 ## Reglas de Competición
 
