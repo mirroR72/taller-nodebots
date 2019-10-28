@@ -25,5 +25,5 @@
 ## Puntuación
 
 - Si un robot sale (o pisa) fuera del ring, pierde ante su oponente.
-- El robot que gane 2 rondas es el ganador.
+- El robot que gane 2 rondas, se califica para la siguiente ronda.
 - Si ningún robot gana una ronda, el arbitro decide a su propio criterio. Incluyéndose cosas como cual de los robots le parece más chulo.
